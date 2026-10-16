@@ -1,1 +1,1 @@
-<?php echo "Hola desde GitHub"; ?>
+<?php echo 'Segundo cambio en index'; ?>
